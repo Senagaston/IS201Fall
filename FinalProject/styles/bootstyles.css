@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+    background-color: lightgrey;
+    height:100px;
+    line-height:100px;
+}
+.footer{
+    text-align: center;
+    font-size: 10px;
+    height:50px;
+    background-color:black;
+    color: white
+}
+.home{
+    text-align: right;
+    display:block;
+}
+.comment{
+    font-size: 30px
+}
